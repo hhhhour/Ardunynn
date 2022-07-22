@@ -1,6 +1,6 @@
 author="H-Hour"
 description = _"An era with factions from Ardunnyn, the land where the campaigns Betrayal of Thaeylan and Order of Oerbrae are set. Includes the Pycts, the Mirefolk, and the Thaeylan kingdom."
-dependencies="Ardunynn"
+dependencies="Ardunynn_Resources"
 email="natew+wesnoth@notthisway.com"
 title="Ardunynn"
 type="era"
